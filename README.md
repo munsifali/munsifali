@@ -3,6 +3,6 @@
 
 Skills: Linux | Go | C++ | Docker | Bash | Node Js | React | PHP
 
-- 🔭 I’m currently working on Go | C++ |Docker 
+- 🔭 I’m currently working on Go | C++ | Docker 
 - 👯 I’m looking to collaborate on Go | C++ | Docker 
 - 📫 How to reach me: munsifali_ali@hotmail.com
